@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "ff1ed2981236d49578e9dbcb",
+  "owner": "sdbqgfqxrnn",
+  "repo": "page-19676816ffd2e7c692b9fd4e",
+  "title": "newcat",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "19676816ffd2e7c692b9fd4e",
+      "a": "newcat",
+      "b": "稳定全球clash加速器",
+      "entity": "newcat",
+      "brand": "newcat",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "5fd5d41fca11890680b8836da8f2ac4fc7e2e97ef7eccf252826d0ba497e1288",
+      "content": {
+        "primary_entity": "newcat",
+        "keyword1": "newcat",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择客户端，Windows、macOS、Android、iOS 与路由器固件各有对应版本，下载后导入订阅即可使用。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "选好套餐与客户端，导入订阅就能开始使用。",
+          "AI_CLOSING_TITLE": "从套餐到订阅一步到位",
+          "AI_DESCRIPTION": "，围绕设备数量与流量需求挑选套餐，再按客户端文档导入订阅，适合日常浏览、流媒体与游戏加速场景。",
+          "AI_FEATURES_INTRO": "从流量、设备数与线路类型三个角度对比，快速定位适合自己的档位。",
+          "AI_FEATURES_TITLE": "套餐与使用要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB、3 台设备，适合轻量浏览与单人多终端。",
+          "AI_FEATURE_TEXT_2": "旗舰版每月 300GB、5 台设备，含 IPLC 专线与流媒体解锁。",
+          "AI_FEATURE_TEXT_3": "团队版每月 1000GB、20 台设备，支持企业定制路由与专属经理。",
+          "AI_FEATURE_TITLE_1": "按流量选档",
+          "AI_FEATURE_TITLE_2": "按设备选档",
+          "AI_FEATURE_TITLE_3": "按场景选档",
+          "AI_GUIDE_INTRO": "先确认套餐与设备需求，再依客户端文档完成订阅配置。",
+          "AI_GUIDE_TITLE": "三步完成订阅配置",
+          "AI_HERO_INTRO": "newcat 提供多档订阅方案，覆盖单人轻量到团队高带宽场景，配合常见客户端完成订阅导入，满足跨设备日常使用。",
+          "AI_HERO_SUBTITLE": "多设备订阅与套餐选择",
+          "AI_HIGHLIGHT_1": "基础版月付 ¥15，含 100GB 流量",
+          "AI_HIGHLIGHT_2": "旗舰版月付 ¥35，支持 5 台设备",
+          "AI_HIGHLIGHT_3": "团队版月付 ¥85，支持 20 台设备",
+          "AI_PLANS_INTRO": "基础版 ¥15/月、旗舰版 ¥35/月、团队版 ¥85/月，按年付分别为 ¥150、¥350、¥850。",
+          "AI_PLANS_TITLE": "三档套餐对比",
+          "AI_STEP_TEXT_1": "根据设备数量与月流量需求，在基础版、旗舰版、团队版中选定档位。",
+          "AI_STEP_TEXT_2": "确认客户端类型与系统版本，查看对应适配要求后再下载安装。",
+          "AI_STEP_TEXT_3": "按客户端文档导入订阅地址，完成节点选择与连接测试。",
+          "AI_STEP_TITLE_1": "选择服务档位",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅连接",
+          "AI_VISUAL_TITLE": "newcat 多设备订阅方案",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB，支持 3 台设备；旗舰版每月 300GB，支持 5 台设备；团队版每月 1000GB，支持 20 台设备。按单人、家庭或团队的实际连接数量选择即可。",
+          "AI_FAQ_ANSWER_2": "普通线路节点池适用于网页与基础流媒体；旗舰版含 IPLC 专线，对游戏加速和实时响应更友好，团队版提供 VIP 专属高带宽节点与企业定制路由。",
+          "AI_FAQ_ANSWER_3": "可以。基础版按年付 ¥150/年，旗舰版 ¥350/年，团队版 ¥850/年，相比按月支付更省。订阅周期越长，单月成本越低。",
+          "AI_FAQ_ANSWER_4": "Windows 可用 Clash Verge、v2rayN；macOS 可用 ClashX、Surge；iOS 可用 Shadowrocket、Stash；Android 可用 Clash Meta、v2rayNG；路由器可导入 OpenWrt 订阅。",
+          "AI_FAQ_ANSWER_5": "在客户端中新增订阅，粘贴购买后获得的订阅链接，更新节点列表后选择延迟较低的节点连接。不同客户端菜单名称略有差异，按其文档操作即可。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "newcat 各套餐流量和设备数有什么区别？",
+          "AI_FAQ_QUESTION_2": "普通线路和 IPLC 专线分别适合什么场景？",
+          "AI_FAQ_QUESTION_3": "年付套餐比月付便宜多少？",
+          "AI_FAQ_QUESTION_4": "不同设备该用哪个客户端？",
+          "AI_FAQ_QUESTION_5": "订阅链接怎样导入客户端？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "hongzhenlin16.cn",
+    "host": "hongzhenlin16.cn"
+  },
+  "file_hashes": {
+    "index.html": "d75597e96a8a06c20c14cf1803b50ba7752e80b1245f61f15492ccfa5955c247",
+    "sitemap.xml": "c0dad397a649a19c0a8d56eb99bd922ef471643ad98e0e51630f5bcb79cdc982",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "65e5bdf9fcd9f60eb2cb5fdbb246edb9a7117ea6151b09d635adf058cffa4775",
+    "robots.txt": "766dbbbbb4cd1d9b2cad7fdb5b4693cae7c62860ed624055f011cff344d4b7f2",
+    "8a9df0c59aab8455c7edbd0a660a60ea.txt": "001ff47977f820e91a59862ec30950ae721a80e3604949b639bb32b2ae23cfc5"
+  },
+  "revision": "b887a98cf433cb70ee8a1c1a5cd836ac70c63fa5fd9d7f7f04f845fd387b2d58"
+}
